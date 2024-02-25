@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "u-icon": "/node-modules/uview-ui/components/u-icon/u-icon",
+    "u-search": "/node-modules/uview-ui/components/u-search/u-search",
+    "u-picker": "/node-modules/uview-ui/components/u-picker/u-picker"
+  },
+  "component": true
+}

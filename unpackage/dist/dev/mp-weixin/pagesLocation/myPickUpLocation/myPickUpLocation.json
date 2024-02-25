@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "我的提货点",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "pick-up-location-header": "/components/PickUpLocationHeader/PickUpLocationHeader",
+    "pick-up-location-item": "/components/PickUpLocationItem/PickUpLocationItem",
+    "u-empty": "/node-modules/uview-ui/components/u-empty/u-empty",
+    "u-button": "/node-modules/uview-ui/components/u-button/u-button"
+  }
+}

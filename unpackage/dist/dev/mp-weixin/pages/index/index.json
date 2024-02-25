@@ -1,0 +1,18 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "uni-app",
+  "usingComponents": {
+    "u-navbar": "/node-modules/uview-ui/components/u-navbar/u-navbar",
+    "u-icon": "/node-modules/uview-ui/components/u-icon/u-icon",
+    "u-notice-bar": "/node-modules/uview-ui/components/u-notice-bar/u-notice-bar",
+    "u-button": "/node-modules/uview-ui/components/u-button/u-button",
+    "list-img-item": "/components/ListImgItem/ListImgItem",
+    "add-to-cart": "/components/AddToCart/AddToCart",
+    "u-image": "/node-modules/uview-ui/components/u-image/u-image",
+    "u-line-progress": "/node-modules/uview-ui/components/u-line-progress/u-line-progress",
+    "u-gap": "/node-modules/uview-ui/components/u-gap/u-gap",
+    "u-popup": "/node-modules/uview-ui/components/u-popup/u-popup",
+    "u-empty": "/node-modules/uview-ui/components/u-empty/u-empty"
+  }
+}

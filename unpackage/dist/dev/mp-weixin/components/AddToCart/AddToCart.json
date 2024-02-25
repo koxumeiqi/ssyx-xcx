@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "u-button": "/node-modules/uview-ui/components/u-button/u-button",
+    "u-number-box": "/node-modules/uview-ui/components/u-number-box/u-number-box",
+    "u-modal": "/node-modules/uview-ui/components/u-modal/u-modal"
+  },
+  "component": true
+}

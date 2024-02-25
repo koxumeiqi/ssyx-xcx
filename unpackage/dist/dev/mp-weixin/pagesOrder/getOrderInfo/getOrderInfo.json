@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "确认支付",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "u-navbar": "/node-modules/uview-ui/components/u-navbar/u-navbar",
+    "u-card": "/node-modules/uview-ui/components/u-card/u-card",
+    "u-image": "/node-modules/uview-ui/components/u-image/u-image"
+  }
+}

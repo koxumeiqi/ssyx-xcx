@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "确认订单",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "u-navbar": "/node-modules/uview-ui/components/u-navbar/u-navbar",
+    "u-card": "/node-modules/uview-ui/components/u-card/u-card",
+    "u-input": "/node-modules/uview-ui/components/u-input/u-input",
+    "list-img-item": "/components/ListImgItem/ListImgItem",
+    "u-tag": "/node-modules/uview-ui/components/u-tag/u-tag"
+  }
+}
